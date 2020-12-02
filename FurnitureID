@@ -73,5 +73,12 @@
       "image":"hinh_2.png",
       "description":"Add a serene color palette and handy utility to your hallway or office by choosing this leaning desk. This unexpected piece is ideal for compact spaces",
       "categoriesId":10
+    },
+    {
+      "furnitureId": 11,
+      "name": "Furniture of America Tali Contemporary 2-tone Leaning Writing Desk",
+      "image":"hinh_2.png",
+      "description":"Add a serene color palette and handy utility to your hallway or office by choosing this leaning desk. This unexpected piece is ideal for compact spaces",
+      "categoriesId":11
     }
   ]
